@@ -1,0 +1,74 @@
+.header 
+    {
+    height:13vh;
+    background-image:url("betongpark.jpg"); 
+    }
+
+.lankar 
+	{
+	background-color: #d6d1c2; 
+	height: 44px;
+	}
+
+.lankar a 
+	{
+	color: #000000;
+	float: left;
+  	display: block;
+  	text-align: center;
+  	font-family: 'Noto Sans JP', sans-serif;
+  	font-weight: bold;
+  	padding: 10px 42px;
+  	text-decoration: none;
+	}
+.mittruta
+{
+    background: blue;
+    width: 300px;
+    height: 100px;
+    border-radius: 2px;
+    margin-left: 400px;
+}
+
+.midcol 
+	{
+	clear: both;
+	height: 72vh;
+	background-image:url("parking-lot-3339509_1280.jpg");
+	background-position: center center;
+	height: 72%; width:auto; background-repeat: no-repeat
+
+	}
+	
+.footer 
+	{
+	background-color: #99004d; 
+	height: 8vh; 
+	clear: both;
+	}
+
+
+div.innehall{
+			margin-left:5%;background-color: #ccccff; 
+			box-shadow: 5 10px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			padding:1em;
+			margin-right: 50%;
+			}
+div.innehall img {width: 300px;height:150px auto;}
+h1 
+	{
+	color:#99004d;font-size:60px;
+	font-family: 'Pacifico', cursive;
+	text-align:center;
+	}
+
+a:hover
+	{
+	background-color: #555555
+	}
+ p  	
+	{
+	color: #2d00b3;
+	font-family: 'Oswald';
+    font-size: 20px;
+	}
