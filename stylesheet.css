@@ -28,8 +28,8 @@ body{margin: 0 auto;}
 	}
     .midcol a  
     {
-    color:white;
-    font-size:20px;
+    color:black;
+    font-size:16px;
     text-decoration: none;
     text-align: center;
     }
@@ -72,27 +72,19 @@ a:hover
         padding-left: 10px;
         padding-right: 10px;
         border-radius: 15px;
-       border:3px solid black;
-         background: rgba(210,0,0,0.3);
-            
-	}
- p  	
-	{
-	color: #2d00b3;
-	font-family: 'Oswald';
-    font-size: 20px;
-         text-align: center;
+        border:3px solid black;
+        background: rgba(210,0,0,0.3);            
 	}
 
 .midcol h2 
 	{
-	color: white;
+	color: navajowhite;
     font-size: 20px;
          text-align: center;
     }
 .midcol h1
     {
-    color: white;
+    color: navajowhite;
     font-size: 30px;
      text-align: center;
 }
