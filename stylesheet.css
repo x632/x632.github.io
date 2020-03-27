@@ -17,13 +17,11 @@ body{margin: 0 auto;}
 
 .midcol 
 	{
-	clear: both;
-	height: 90vh;
+    
 	background-image:url("host.jpg");
 	background-position: center;
     background-size: cover;
-    background-color:black;
-    background-repeat: no-repeat fixed;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 	}
     .midcol a  
@@ -37,8 +35,7 @@ body{margin: 0 auto;}
 .lankar 
     { 
     display: inline block;
-    margin-left:30%;
-    margin-right:30%;   
+     
 	font-family: 'Kalam', cursive;
     text-align:center;
     }
@@ -60,7 +57,7 @@ body{margin: 0 auto;}
   		}
 .footer a
     {
-    color:white;
+    color:rgb(255, 255, 255);
     font-family: 'Kalam', cursive;
     font-size:20px;
     text-decoration: none;
