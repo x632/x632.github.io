@@ -20,10 +20,11 @@ body{margin: 0 auto;}
 	clear: both;
 	height: 90vh;
 	background-image:url("host.jpg");
-	background-position: center center;
+	background-position: absolute;
     background-size: cover;
     background-color:black;
-	background-repeat: no-repeat
+    background-repeat: no-repeat fixed;
+    background-attachment: fixed;
 	}
     .midcol a  
     {
