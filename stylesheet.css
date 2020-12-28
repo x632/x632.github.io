@@ -1,5 +1,7 @@
 
-body{margin: 0 auto;}
+body{
+    margin: 0 auto;
+}
 .header 
     {
         position: fixed;
@@ -11,19 +13,19 @@ body{margin: 0 auto;}
     }
 .header h1
     {
-    font-family: 'Dancing Script', cursive;font-size: 45px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
     text-align: center; 
     }
 
-.midcol 
-	{
-    
-	background-image:url("host.jpg");
+.midcol {
+    background-image: url("host.jpg");
 	background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-	}
+    }
+    
     .midcol a  
     {
     color:black;
@@ -31,6 +33,7 @@ body{margin: 0 auto;}
     text-decoration: none;
     text-align: center;
     }
+    
 
 .lankar 
     { 
